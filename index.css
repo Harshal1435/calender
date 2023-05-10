@@ -16,10 +16,12 @@ color: white;
     height: 50%;
     width:100%;
     background-color: bisque;
+    overflow: hidden;
 }
 .image{
     height:100%;
     width:100%;
+    overflow: hidden;
 }
 
 .date{
