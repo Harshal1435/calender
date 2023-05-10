@@ -1,0 +1,35 @@
+
+th,td{
+padding: 10px;
+text-align: center;
+
+}
+.calender{
+height: 500px;
+width:45%;
+background-color: black;
+color: white;
+
+
+}
+.img{
+    height: 50%;
+    width:100%;
+    background-color: bisque;
+}
+.image{
+    height:100%;
+    width:100%;
+}
+
+.date{
+    height:50%;
+    width:100%;
+}
+.hov:hover{
+    background-color: rgb(64, 95, 85);
+
+}
+.hov:active{
+    background-color: rgb(79, 53, 21);
+}
