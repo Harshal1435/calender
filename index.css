@@ -4,6 +4,10 @@
  text-align: center; 
   
  } 
+.month{
+collspan:7;
+
+}
 table{
 width:100%;
 
