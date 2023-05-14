@@ -5,7 +5,7 @@
   
  } 
 .month{
-collspan:7;
+rowspan:7;
 text-align:center;
 
 }
